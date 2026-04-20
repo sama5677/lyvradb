@@ -86,7 +86,16 @@ class OnboardingController extends Controller
                 'goal'              => 'required|string|max:100',
                 'focus_area'        => 'required|string|max:100',
                 'activity_level'    => 'required|string|in:sedentary,light,moderate,active,very_active',
-                'workout_frequency' => 'required|integer|min:1|max:7',
+                'workout_frequency' => [
+                'required',
+                 'string',
+                \Illuminate\Validation\Rule::in([
+                 '1-2 times a week',
+                 '3-4 times a week',
+                  '4-5 times a week',
+                  'Every day',
+    ]),
+],    
                 'injuries'          => 'nullable|string|max:500',
                 'body_shape'        => 'required|string|in:slim,average,athletic,overweight,obese', // السؤال الجديد
             ]);
