@@ -1,0 +1,136 @@
+{
+  "plan_name": "Upper / Lower Split",
+  "days": {
+    "upper": {
+      "exercises": [
+        {
+          "id": 1,
+          "name": "Bench Press",
+                    "video_id": "tuwHzzPdaGc",
+          "video_url": "https://youtu.be/tuwHzzPdaGc?si=RuiBaooONEOtN1jQ",
+          "photo_url": "https://img.youtube.com/vi/tuwHzzPdaGc/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "6-8",
+          "rest_minutes": 2
+        },
+        {
+          "id": 2,
+          "name": "Bent-Over Rows",
+          "video_id": "paCfxhgW6bI",
+          "video_url": "https://youtu.be/paCfxhgW6bI?si=KIEHAXmAJbTVnZDC",
+          "photo_url": "https://img.youtube.com/vi/paCfxhgW6bI/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "6-8",
+          "rest_minutes": 2
+        },
+        {
+          "id": 3,
+          "name": "Shoulder Press",
+          "video_id": "fj_VAk1jfZ8",
+          "video_url": "https://youtu.be/fj_VAk1jfZ8?si=Q04QefNPQ34UoAl9",
+          "photo_url": "https://img.youtube.com/vi/fj_VAk1jfZ8/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 4,
+          "name": "Incline Dumbbell Flyes",
+          "video_id": "-lcbvOddoi8",
+          "video_url": "https://youtu.be/-lcbvOddoi8?si=7JExN95FZim4i3GW",
+          "photo_url": "https://img.youtube.com/vi/-lcbvOddoi8/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "10-15",
+          "rest_minutes": 2
+        },
+        {
+          "id": 5,
+          "name": "Bicep Curls",
+          "video_id": "n8a7E9Y67wo",
+          "video_url": "https://youtu.be/n8a7E9Y67wo",
+          "photo_url": "https://img.youtube.com/vi/n8a7E9Y67wo/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "12-15",
+          "rest_minutes": 2
+        },
+        {
+          "id": 6,
+          "name": "Triceps Extensions",
+          "video_id": "LzwgB15UdO8",
+          "video_url": "https://youtu.be/LzwgB15UdO8?si=txirHVPu5oGHZIZW",
+          "photo_url": "https://img.youtube.com/vi/LzwgB15UdO8/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "12-15",
+          "rest_minutes": 2
+        }
+      ],
+      "cardio": null
+    },
+
+    "lower": {
+      "exercises": [
+        {
+          "id": 7,
+          "name": "Squat",
+          "video_id": "R2dMsNhN3DE",
+          "video_url": "https://youtu.be/R2dMsNhN3DE?si=riZRbQDePfWw2IWS",
+          "photo_url": "https://img.youtube.com/vi/R2dMsNhN3DE/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "6-8",
+          "rest_minutes": 2
+        },
+        {
+          "id": 8,
+          "name": "Romanian Deadlifts",
+          "video_id": "1J_wFYwv2Dg",
+          "video_url": "https://youtu.be/1J_wFYwv2Dg?si=bWzw-Hjp-BqH5sqt",
+          "photo_url": "https://img.youtube.com/vi/1J_wFYwv2Dg/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "6-8",
+          "rest_minutes": 2
+        },
+        {
+          "id": 9,
+          "name": "Leg Press Machine",
+          "video_id": "sEM_zo9w2ss",
+          "video_url": "https://youtu.be/sEM_zo9w2ss?si=kJsMNvDxvQvn4yvQ",
+          "photo_url": "https://img.youtube.com/vi/sEM_zo9w2ss/hqdefault.jpg",
+          "sets": 3,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 10,
+          "name": "Leg Curls",
+          "video_id": "3BWiLFc8Dbg",
+          "video_url": "https://youtu.be/3BWiLFc8Dbg?si=zYBua0LHON2Txdlj",
+          "photo_url": "https://img.youtube.com/vi/3BWiLFc8Dbg/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 11,
+          "name": "Standing Calf Raises",
+          "video_id": "svdFV0909Lg",
+          "video_url": "https://youtu.be/svdFV0909Lg",
+          "photo_url": "https://img.youtube.com/vi/svdFV0909Lg/hqdefault.jpg",
+          "sets": 4,
+          "reps": "10-15",
+          "rest_minutes": 2
+        },
+        {
+          "id": 12,
+          "name": "Plank",
+          "video_id": "nD80ONbpEps",
+          "video_url": "https://youtu.be/nD80ONbpEps",
+          "photo_url": "https://img.youtube.com/vi/nD80ONbpEps/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "45-60 sec",
+          "rest_minutes": 1
+        }
+      ],
+      "cardio": null
+    }
+  }
+}

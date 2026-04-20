@@ -1,0 +1,242 @@
+{
+  "plan_name": "Arnold Split",
+  "days": {
+    "chest & back": {
+      "exercises": [
+        {
+          "id": 1,
+          "name": "Bench Press",
+          "video_id": "tuwHzzPdaGc",
+          "video_url": "https://youtu.be/tuwHzzPdaGc?si=v_GEiHVJ7EdXtDmi",
+          "photo_url": "https://img.youtube.com/vi/tuwHzzPdaGc/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 2,
+          "name": "Incline Bench Press",
+          "video_id": "uIzbJX5EVIY",
+          "video_url": "https://youtu.be/uIzbJX5EVIY?si=XnGT7Y-0yC-ytjp5",
+          "photo_url": "https://img.youtube.com/vi/uIzbJX5EVIY/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 3,
+          "name": "Dumbbell Pullover",
+          "video_id": "vT2sXyQV7h8",
+          "video_url": "https://youtu.be/vT2sXyQV7h8",
+          "photo_url": "https://img.youtube.com/vi/vT2sXyQV7h8/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 4,
+          "name": "Chin Up",
+          "video_id": "1EJ3A3rEtlo",
+          "video_url": "https://youtu.be/1EJ3A3rEtlo?si=olbUHcjJEVOkA7_g",
+          "photo_url": "https://img.youtube.com/vi/1EJ3A3rEtlo/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 5,
+          "name": "Bent Over Row",
+          "video_id": "paCfxhgW6bI",
+          "video_url": "https://youtu.be/paCfxhgW6bI?si=7jr3oXPEJhAY2lC4",
+          "photo_url": "https://img.youtube.com/vi/paCfxhgW6bI/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 6,
+          "name": "Deadlift",
+          "video_id": "wjsu6ceEkAQ",
+          "video_url": "https://youtu.be/wjsu6ceEkAQ?si=kSiZQVScppHD1SzW",
+          "photo_url": "https://img.youtube.com/vi/wjsu6ceEkAQ/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 7,
+          "name": "Crunches",
+          "video_id": "o_qt0xZwCo8",
+          "video_url": "https://youtu.be/o_qt0xZwCo8",
+          "photo_url": "https://img.youtube.com/vi/o_qt0xZwCo8/hqdefault.jpg",
+          "sets": 5,
+          "reps": 25,
+          "rest_minutes": 3
+        }
+      ],
+      "cardio": null
+    },
+
+    "shoulders & arms": {
+      "exercises": [
+        {
+          "id": 8,
+          "name": "Barbell Clean and Press",
+          "video_id": "OA_CzaDEvSM",
+          "video_url": "https://youtu.be/OA_CzaDEvSM?si=t7oEMR3YXqRgGH0_",
+          "photo_url": "https://img.youtube.com/vi/OA_CzaDEvSM/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 9,
+          "name": "Dumbbell Lateral Raise",
+          "video_id": "EikP_PvZFYI",
+          "video_url": "https://youtu.be/EikP_PvZFYI",
+          "photo_url": "https://img.youtube.com/vi/EikP_PvZFYI/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 10,
+          "name": "Barbell Upright Row",
+          "video_id": "EmYAguN9Pzs",
+          "video_url": "https://youtu.be/EmYAguN9Pzs",
+          "photo_url": "https://img.youtube.com/vi/EmYAguN9Pzs/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 11,
+          "name": "Standing Barbell Curl",
+          "video_id": "MAhaxFZes9A",
+          "video_url": "https://youtu.be/MAhaxFZes9A",
+          "photo_url": "https://img.youtube.com/vi/MAhaxFZes9A/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 12,
+          "name": "Close Grip Bench Press",
+          "video_id": "j-NhORwJDb4",
+          "video_url": "https://youtu.be/j-NhORwJDb4?si=j0vnqJKS7_naBtFe",
+          "photo_url": "https://img.youtube.com/vi/j-NhORwJDb4/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 13,
+          "name": "Standing Barbell Triceps Extension",
+          "video_id": "D9Xrg2OWE3M",
+          "video_url": "https://youtu.be/D9Xrg2OWE3M",
+          "photo_url": "https://img.youtube.com/vi/D9Xrg2OWE3M/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 14,
+          "name": "Wrist Curls",
+          "video_id": "KGMFdK_SRSY",
+          "video_url": "https://youtu.be/KGMFdK_SRSY",
+          "photo_url": "https://img.youtube.com/vi/KGMFdK_SRSY/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 15,
+          "name": "Reverse Wrist Curls",
+          "video_id": "iz27MlyxL68",
+          "video_url": "https://youtu.be/iz27MlyxL68",
+          "photo_url": "https://img.youtube.com/vi/iz27MlyxL68/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 16,
+          "name": "Reverse Crunches",
+          "video_id": "Em7c9k765iA",
+          "video_url": "https://youtu.be/Em7c9k765iA?si=ggMXsH3w3JOX-AQV",
+          "photo_url": "https://img.youtube.com/vi/Em7c9k765iA/maxresdefault.jpg",
+          "sets": 5,
+          "reps": 25,
+          "rest_minutes": 3
+        }
+      ],
+      "cardio": null
+    },
+
+    "legs & lower back": {
+      "exercises": [
+        {
+          "id": 17,
+          "name": "Squat",
+          "video_id": "R2dMsNhN3DE",
+          "video_url": "https://youtu.be/R2dMsNhN3DE?si=8vpG3WracGMMF7lY",
+          "photo_url": "https://img.youtube.com/vi/R2dMsNhN3DE/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 18,
+          "name": "Barbell Lunge",
+          "video_id": "aX0wxEPgstw",
+          "video_url": "https://youtu.be/aX0wxEPgstw",
+          "photo_url": "https://img.youtube.com/vi/aX0wxEPgstw/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 19,
+          "name": "Leg Curl",
+          "video_id": "9IfSt7zEt18",
+          "video_url": "https://youtu.be/9IfSt7zEt18",
+          "photo_url": "https://img.youtube.com/vi/9IfSt7zEt18/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 20,
+          "name": "Stiff Leg Deadlift",
+          "video_id": "CkrqLaDGvOA",
+          "video_url": "https://youtu.be/CkrqLaDGvOA?si=VHGQm2xieptkfc-U",
+          "photo_url": "https://img.youtube.com/vi/CkrqLaDGvOA/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 21,
+          "name": "Standing Calf Raises",
+          "video_id": "svdFV0909Lg",
+          "video_url": "https://youtu.be/svdFV0909Lg",
+          "photo_url": "https://img.youtube.com/vi/svdFV0909Lg/maxresdefault.jpg",
+          "sets": 3,
+          "reps": 10,
+          "rest_minutes": 2
+        },
+        {
+          "id": 22,
+          "name": "Crunches",
+          "video_id": "o_qt0xZwCo8",
+          "video_url": "https://youtu.be/o_qt0xZwCo8",
+          "photo_url": "https://img.youtube.com/vi/o_qt0xZwCo8/hqdefault.jpg",
+          "sets": 5,
+          "reps": 25,
+          "rest_minutes": 3
+        }
+      ],
+      "cardio": null
+    }
+  }
+}

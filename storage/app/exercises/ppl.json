@@ -1,0 +1,221 @@
+{
+  "plan_name": "Push  Pull  Legs (PPL)",
+  "days": {
+    "push": {
+      "exercises": [
+        {
+          "id": 1,
+          "name": "Incline Press Machine",
+          "video_id": "XNWv0i1GG0g",
+          "video_url": "https://youtu.be/XNWv0i1GG0g",
+          "photo_url": "https://img.youtube.com/vi/XNWv0i1GG0g/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 2,
+          "name": "Chest Fly Machine",
+          "video_id": "RyphlNV-u3E",
+          "video_url": "https://youtu.be/RyphlNV-u3E",
+          "photo_url": "https://img.youtube.com/vi/RyphlNV-u3E/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 3,
+          "name": "Chest Supported Dumbbell Lateral Raise",
+          "video_id": "MiWSc2satrI",
+          "video_url": "https://youtu.be/MiWSc2satrI",
+          "photo_url": "https://img.youtube.com/vi/MiWSc2satrI/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 4,
+          "name": "SA Cross Body Triceps Extension",
+          "video_id": "jq67N52zp-4",
+          "video_url": "https://youtu.be/jq67N52zp-4",
+          "photo_url": "https://img.youtube.com/vi/jq67N52zp-4/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 5,
+          "name": "Dual-Rope Triceps Extension",
+          "video_id": "xA8f3ssR7tc",
+          "video_url": "https://youtu.be/xA8f3ssR7tc",
+          "photo_url": "https://img.youtube.com/vi/xA8f3ssR7tc/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 6,
+          "name": "Dead Bug",
+          "video_id": "JOK2OjGigIM",
+          "video_url": "https://youtu.be/JOK2OjGigIM",
+          "photo_url": "https://img.youtube.com/vi/JOK2OjGigIM/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "8-12",
+          "rest_minutes": 2
+        }
+      ],
+      "cardio": {
+        "type": "Treadmill",
+        "duration_minutes": 15
+      }
+    },
+
+    "pull": {
+      "exercises": [
+        {
+          "id": 7,
+          "name": "Neutral Grip Cable Lat Pulldown",
+          "video_id": "ABt-6_IiUME",
+          "video_url": "https://youtu.be/ABt-6_IiUME",
+          "photo_url": "https://img.youtube.com/vi/ABt-6_IiUME/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "6-8",
+          "rest_minutes": 2
+        },
+        {
+          "id": 8,
+          "name": "Upper Back Row Machine",
+          "video_id": "tZolglDlR9I",
+          "video_url": "https://youtu.be/tZolglDlR9I",
+          "photo_url": "https://img.youtube.com/vi/tZolglDlR9I/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 9,
+          "name": "Single Arm Cable Iso Lumbar Row",
+          "video_id": "Bp00DL0_cts",
+          "video_url": "https://youtu.be/Bp00DL0_cts",
+          "photo_url": "https://img.youtube.com/vi/Bp00DL0_cts/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 10,
+          "name": "Prone Dumbbell Rear Delt Fly",
+          "video_id": "xlPIlKB_4_8",
+          "video_url": "https://youtu.be/xlPIlKB_4_8",
+          "photo_url": "https://img.youtube.com/vi/xlPIlKB_4_8/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 11,
+          "name": "Incline Dumbbell Curl",
+          "video_id": "dWSNFyAt6Y4",
+          "video_url": "https://youtu.be/dWSNFyAt6Y4",
+          "photo_url": "https://img.youtube.com/vi/dWSNFyAt6Y4/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 12,
+          "name": "Dumbbell Preacher Curl",
+          "video_id": "oBKq6LxGy08",
+          "video_url": "https://youtu.be/oBKq6LxGy08",
+          "photo_url": "https://img.youtube.com/vi/oBKq6LxGy08/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 13,
+          "name": "Cable Shrugs",
+          "video_id": "oyNr0B9oqhA",
+          "video_url": "https://youtu.be/oyNr0B9oqhA",
+          "photo_url": "https://img.youtube.com/vi/oyNr0B9oqhA/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "8-10",
+          "rest_minutes": 2
+        }
+      ],
+      "cardio": {
+        "type": "Treadmill",
+        "duration_minutes": 15
+      }
+    },
+
+    "leg": {
+      "exercises": [
+        {
+          "id": 14,
+          "name": "Barbell Hip Thrust",
+          "video_id": "x-Hwgr0v5IQ",
+          "video_url": "https://youtu.be/x-Hwgr0v5IQ",
+          "photo_url": "https://img.youtube.com/vi/x-Hwgr0v5IQ/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 15,
+          "name": "Leg Press Machine",
+          "video_id": "PiozQsCSNBc",
+          "video_url": "https://youtu.be/PiozQsCSNBc",
+          "photo_url": "https://img.youtube.com/vi/PiozQsCSNBc/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 16,
+          "name": "Seated Leg Curl Full Movement",
+          "video_id": "TyxUd0gqrJs",
+          "video_url": "https://youtu.be/TyxUd0gqrJs",
+          "photo_url": "https://img.youtube.com/vi/TyxUd0gqrJs/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 17,
+          "name": "Leg Extension Machine",
+          "video_id": "iWv_R_-fc48",
+          "video_url": "https://youtu.be/iWv_R_-fc48",
+          "photo_url": "https://img.youtube.com/vi/iWv_R_-fc48/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 18,
+          "name": "Seated Hip Adduction Machine",
+          "video_id": "wA0j7pHsP3A",
+          "video_url": "https://youtu.be/wA0j7pHsP3A",
+          "photo_url": "https://img.youtube.com/vi/wA0j7pHsP3A/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 19,
+          "name": "Horizontal Calf Raise",
+          "video_id": "r8Ge3lUfhnE",
+          "video_url": "https://youtu.be/r8Ge3lUfhnE",
+          "photo_url": "https://img.youtube.com/vi/r8Ge3lUfhnE/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "8-10",
+          "rest_minutes": 2
+        }
+      ],
+      "cardio": {
+        "type": "Treadmill",
+        "duration_minutes": 15
+      }
+    }
+  }
+}

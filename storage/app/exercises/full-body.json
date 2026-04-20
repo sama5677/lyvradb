@@ -1,0 +1,93 @@
+{
+  "plan_name": "Full Body Split",
+  "days": {
+    "full_body": {
+      "exercises": [
+        {
+          "id": 1,
+          "name": "Barbell Squat",
+          "video_id": "R2dMsNhN3DE",
+          "video_url": "https://youtu.be/R2dMsNhN3DE?si=1-p7kmf5TH_I3xs0",
+          "photo_url": "https://img.youtube.com/vi/R2dMsNhN3DE/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "6-8",
+          "rest_minutes": 2
+        },
+        {
+          "id": 2,
+          "name": "Bench Press",
+          "video_id": "tuwHzzPdaGc",
+          "video_url": "https://youtu.be/tuwHzzPdaGc?si=RuiBaooONEOtN1jQ",
+          "photo_url": "https://img.youtube.com/vi/tuwHzzPdaGc/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 3,
+          "name": "Lat Pull-Downs",
+          "video_id": "iKrKgWR9wbY",
+          "video_url": "https://youtu.be/iKrKgWR9wbY?si=0gJHNJGIayI5_tDa",
+          "photo_url": "https://img.youtube.com/vi/iKrKgWR9wbY/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 4,
+          "name": "Romanian Deadlift",
+          "video_id": "-m45n1_x32E",
+          "video_url": "https://youtu.be/-m45n1_x32E?si=2TDg8wYL857zvmi-",
+          "photo_url": "https://img.youtube.com/vi/-m45n1_x32E/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 5,
+          "name": "Dumbbell Shoulder Press",
+          "video_id": "FRxZ6wr5bpA",
+          "video_url": "https://youtu.be/FRxZ6wr5bpA?si=PBd13rJrq5Yzkv1d",
+          "photo_url": "https://img.youtube.com/vi/FRxZ6wr5bpA/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "8-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 6,
+          "name": "Dumbbell Bicep Curl",
+          "video_id": "3ZpEL3xiNhc",
+          "video_url": "https://youtu.be/3ZpEL3xiNhc?si=-MBf4218EAEIw4A2",
+          "photo_url": "https://img.youtube.com/vi/3ZpEL3xiNhc/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 7,
+          "name": "Triceps Push-Downs",
+          "video_id": "LzwgB15UdO8",
+          "video_url": "https://youtu.be/LzwgB15UdO8?si=txirHVPu5oGHZIZW",
+          "photo_url": "https://img.youtube.com/vi/LzwgB15UdO8/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 8,
+          "name": "Plank",
+          "video_id": "nD80ONbpEps",
+          "video_url": "https://youtu.be/nD80ONbpEps",
+          "photo_url": "https://img.youtube.com/vi/nD80ONbpEps/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "30-45",
+          "rest_minutes": 1
+        }
+      ],
+      "cardio": {
+        "type": "Treadmill",
+        "duration_minutes": 15
+      }
+    }
+  }
+}

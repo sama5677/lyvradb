@@ -1,0 +1,269 @@
+{
+  "plan_name": "Bro Split (Body Part Split)",
+  "days": {
+    "chest": {
+      "exercises": [
+        {
+          "id": 1,
+          "name": "Bench Press",
+          "video_id": "tuwHzzPdaGc",
+          "video_url": "https://youtu.be/tuwHzzPdaGc?si=rc4r_xhBck3DZe7R",
+          "photo_url": "https://img.youtube.com/vi/tuwHzzPdaGc/maxresdefault.jpg",
+          "sets": 4,
+          "reps": "6-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 2,
+          "name": "Incline Dumbbell Press",
+          "video_id": "8nNi8jbbUPE",
+          "video_url": "https://youtu.be/8nNi8jbbUPE?si=RPG_MhWrWdESm2Wb",
+          "photo_url": "https://img.youtube.com/vi/8nNi8jbbUPE/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "8-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 3,
+          "name": "Dumbbell Flys",
+          "video_id": "-lcbvOddoi8",
+          "video_url": "https://youtu.be/-lcbvOddoi8?si=Nw4UCepWTqwipU7i",
+          "photo_url": "https://img.youtube.com/vi/-lcbvOddoi8/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-15",
+          "rest_minutes": 2
+        },
+        {
+          "id": 4,
+          "name": "Cable Crossover",
+          "video_id": "DumkKcC_nHI",
+          "video_url": "https://youtu.be/DumkKcC_nHI?si=xv7yuZa7ZMnKXEBi",
+          "photo_url": "https://img.youtube.com/vi/DumkKcC_nHI/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "12-15",
+          "rest_minutes": 2
+        }
+      ],
+      "cardio": {
+        "type": "Treadmill",
+        "duration_minutes": 15
+      }
+    },
+
+    "back": {
+      "exercises": [
+        {
+          "id": 5,
+          "name": "Deadlift",
+          "video_id": "wjsu6ceEkAQ",
+          "video_url": "https://youtu.be/wjsu6ceEkAQ?si=Z38KQE-yE1ZeP9ed",
+          "photo_url": "https://img.youtube.com/vi/wjsu6ceEkAQ/maxresdefault.jpg",
+          "sets": 2,
+          "reps": "6-8",
+          "rest_minutes": 2
+        },
+        {
+          "id": 6,
+          "name": "Pull-Ups",
+          "video_id": "poyr8KenUfc",
+          "video_url": "https://youtu.be/poyr8KenUfc?si=GU0T8cfhJiu_GN64",
+          "photo_url": "https://img.youtube.com/vi/poyr8KenUfc/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 7,
+          "name": "Barbell Rows",
+          "video_id": "paCfxhgW6bI",
+          "video_url": "https://youtu.be/paCfxhgW6bI?si=Q4PrwDXVSYb_AwDq",
+          "photo_url": "https://img.youtube.com/vi/paCfxhgW6bI/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 8,
+          "name": "Seated Cable Row",
+          "video_id": "TojvUhp3sDw",
+          "video_url": "https://youtu.be/TojvUhp3sDw?si=TojvUhp3sDw",
+          "photo_url": "https://img.youtube.com/vi/TojvUhp3sDw/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        }
+      ],
+      "cardio": {
+        "type": "Treadmill",
+        "duration_minutes": 15
+      }
+    },
+
+    "shoulders": {
+      "exercises": [
+        {
+          "id": 9,
+          "name": "Overhead Press",
+          "video_id": "j7ULT6dznNc",
+          "video_url": "https://youtu.be/j7ULT6dznNc?si=emSclRzMCiDnUvWD",
+          "photo_url": "https://img.youtube.com/vi/j7ULT6dznNc/maxresdefault.jpg",
+          "sets": 4,
+          "reps": "6-10",
+          "rest_minutes": 2
+        },
+        {
+          "id": 10,
+          "name": "Dumbbell Lateral Raise",
+          "video_id": "EikP_PvZFYI",
+          "video_url": "https://youtu.be/EikP_PvZFYI?si=EikP_PvZFYI",
+          "photo_url": "https://img.youtube.com/vi/EikP_PvZFYI/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "12-15",
+          "rest_minutes": 2
+        },
+        {
+          "id": 11,
+          "name": "Rear Delt Flys",
+          "video_id": "Fgz_FdzDukE",
+          "video_url": "https://youtu.be/Fgz_FdzDukE?si=iTHGhcR087itFWL7",
+          "photo_url": "https://img.youtube.com/vi/Fgz_FdzDukE/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "12-15",
+          "rest_minutes": 2
+        },
+        {
+          "id": 12,
+          "name": "Barbell Shrugs",
+          "video_id": "6hNudn7Peco",
+          "video_url": "https://youtu.be/6hNudn7Peco?si=aX_cfE7NF4zNOuMf",
+          "photo_url": "https://img.youtube.com/vi/6hNudn7Peco/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        }
+      ],
+      "cardio": {
+        "type": "Treadmill",
+        "duration_minutes": 15
+      }
+    },
+
+    "legs": {
+      "exercises": [
+        {
+          "id": 13,
+          "name": "Squat",
+          "video_id": "R2dMsNhN3DE",
+          "video_url": "https://youtu.be/R2dMsNhN3DE?si=riZRbQDePfWw2IWS",
+          "photo_url": "https://img.youtube.com/vi/R2dMsNhN3DE/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 14,
+          "name": "Leg Press Machine",
+          "video_id": "sEM_zo9w2ss",
+          "video_url": "https://youtu.be/sEM_zo9w2ss?si=kJsMNvDxvQvn4yvQ",
+          "photo_url": "https://img.youtube.com/vi/sEM_zo9w2ss/hqdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 15,
+          "name": "Seated Leg Curl Machine",
+          "video_id": "3BWiLFc8Dbg",
+          "video_url": "https://youtu.be/3BWiLFc8Dbg?si=zYBua0LHON2Txdlj",
+          "photo_url": "https://img.youtube.com/vi/3BWiLFc8Dbg/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 16,
+          "name": "Leg Extension",
+          "video_id": "0fl1RRgJ83I",
+          "video_url": "https://youtu.be/0fl1RRgJ83I?si=wV5Oqylm6n7-iFHy",
+          "photo_url": "https://img.youtube.com/vi/0fl1RRgJ83I/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "12-15",
+          "rest_minutes": 2
+        },
+        {
+          "id": 17,
+          "name": "Calf Raise",
+          "video_id": "Vi0UhFBP-5U",
+          "video_url": "https://youtu.be/Vi0UhFBP-5U?si=BTndg4shWy-tR0Tj",
+          "photo_url": "https://img.youtube.com/vi/Vi0UhFBP-5U/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "12-20",
+          "rest_minutes": 2
+        }
+      ],
+      "cardio": {
+        "type": "Treadmill",
+        "duration_minutes": 15
+      }
+    },
+
+    "arms": {
+      "exercises": [
+        {
+          "id": 18,
+          "name": "Dumbbell Curl",
+          "video_id": "3ZpEL3xiNhc",
+          "video_url": "https://youtu.be/3ZpEL3xiNhc?si=-MBf4218EAEIw4A2",
+          "photo_url": "https://img.youtube.com/vi/3ZpEL3xiNhc/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 19,
+          "name": "Hammer Curl",
+          "video_id": "SzyUWCKrHqI",
+          "video_url": "https://youtu.be/SzyUWCKrHqI",
+          "photo_url": "https://img.youtube.com/vi/SzyUWCKrHqI/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 20,
+          "name": "Triceps Pushdown",
+          "video_id": "mpZ9VRisAyw",
+          "video_url": "https://youtu.be/mpZ9VRisAyw?si=TqYwZhpa40FGAYES",
+          "photo_url": "https://img.youtube.com/vi/mpZ9VRisAyw/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 21,
+          "name": "Barbell Skull Crushers",
+          "video_id": "WSfYne_J898",
+          "video_url": "https://youtu.be/WSfYne_J898",
+          "photo_url": "https://img.youtube.com/vi/WSfYne_J898/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "10-12",
+          "rest_minutes": 2
+        },
+        {
+          "id": 22,
+          "name": "Cable Curl",
+          "video_id": "mYkGc5uWpwE",
+          "video_url": "https://youtu.be/mYkGc5uWpwE",
+          "photo_url": "https://img.youtube.com/vi/mYkGc5uWpwE/maxresdefault.jpg",
+          "sets": 3,
+          "reps": "12-15",
+          "rest_minutes": 2
+        }
+      ],
+      "cardio": {
+        "type": "Treadmill",
+        "duration_minutes": 15
+      }
+    }
+  }
+}
