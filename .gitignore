@@ -16,8 +16,18 @@
 /public/build
 /public/hot
 /public/storage
+
+# نمنع كل storage
+/storage/*
+
+# لكن نسمح بالآتي 👇
+!/storage/app/
+!/storage/app/exercises/
+
+# باقي الملفات الحساسة
 /storage/*.key
 /storage/pail
+
 /vendor
 Homestead.json
 Homestead.yaml
